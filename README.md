@@ -1,5 +1,7 @@
 # React Container Components
 
+API Key for the Article Search API: ebbc7c98eec14c56b308a718e9eda52d
+
 ## Overview
 In this lab, we will practice building container components. By the end of the lab you will have:
 1. Practiced Building Container Components.
